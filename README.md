@@ -1,4 +1,4 @@
-<h1>Emotional AI Detector </h1>h2?
+<h1>Emotional AI Detector </h1>
 <h3>Project Description</h3>
 
 The Emotional AI Detector is an AI-based system that detects three primary human emotions: Happy, Sad, and Normal. Using machine learning (ML) algorithms, the system analyzes input data (such as text, voice, or images) and classifies the emotional state of the user.
