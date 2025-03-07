@@ -13,26 +13,26 @@ Features
 <h3>Technologies Used</h3>
 
     Python
-    Machine Learning: (e.g., Scikit-learn, TensorFlow, Keras, etc.)
+    Machine Learning: (Scikit-learn)
     Data Processing: Pandas, NumPy
     Data Visualization: Matplotlib (optional, if you visualize the data)
-    Libraries: (e.g., OpenCV for image processing, librosa for audio features, etc.)
+    Libraries: (e.g., OpenCV for image processing)
 
 <h3>Installation</h3>
 
    <h2> Clone this repository:</h2>
 
-git clone https://github.com/padamdamai/Emotional_AI_DETECTOR
+    git clone https://github.com/padamdamai/Emotional_AI_DETECTOR
 
 <h2>Navigate to the project directory:</h2>
 
-cd EMOTIONAL_AI_DETECTOR
+    cd EMOTIONAL_AI_DETECTOR
 
 <h2>Create and activate a virtual environment:</h2>
 
-python -m venv venv
-source venv/bin/activate  # On macOS/Linux
-venv\Scripts\activate  # On Windows
+    python -m venv venv
+    source venv/bin/activate  # On macOS/Linux
+    venv\Scripts\activate  # On Windows
 
 <h2>Install the required dependencies:</h2>
 
@@ -41,7 +41,7 @@ venv\Scripts\activate  # On Windows
 <h3>Usage</h3>
 
    <h2> Train the Model:</h2>
-    If you are training the model, run the following command:
+ If you are training the model, run the following command:
 
 python train_model.py
 
@@ -54,8 +54,8 @@ Once the model is trained, use the following command to detect emotions:
 
 <h3>Example Output</h3>
 
-Input: "I feel really excited today!"
-Predicted Emotion: Happy
+    Input: "I feel really excited today!"
+    Predicted Emotion: Happy
 
 Future Improvements
 
